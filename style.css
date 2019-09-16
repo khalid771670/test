@@ -1,0 +1,11 @@
+#media img{
+	width: 50%;
+	height: auto;
+	color: red;
+	display: block;
+	text-align: center;
+}
+#media {
+	display: block;
+	text-align: center;
+}
